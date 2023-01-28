@@ -79,24 +79,24 @@ body
     align-items: center;
     margin-top: 30px;
 }
-.current-temparature__weather-icon
+.current-temperature__weather-icon
 {
     width: 125px;
     margin-top: 30px;
 }
- .current-temparature__description
+ .current-temperature__description
 {
     color: #b6aef0;
     font-weight: 500;
-    font-size: 244px;
+    font-size: 24px;
     margin-top: 30px;
 }
-.current-temparature__info-label
+.current-temperature__info-label
 {
     margin-top: 15px;
     color: #a2a2be;
 }
-.current-temparature-current-temparature
+.current-temperature__current-temperature
 {
     font-size: 24px;
     font-weight: 500;
